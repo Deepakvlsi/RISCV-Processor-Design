@@ -2,7 +2,8 @@
 
 This project implements a 32-bit, 5-stage pipelined processor based on the RISC-V RV32I instruction set architecture, including instruction fetch, decode, execute, memory access, and write-back stages. It also integrates control logic and forwarding mechanisms to handle data hazards efficiently.
 
-📌 Features
+📌 Features  
+
 ✅ RISC-V RV32I Base Instruction Set
 
 ✅ 5-stage pipeline: IF, ID, EX, MEM, WB
